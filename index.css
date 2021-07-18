@@ -1,0 +1,19 @@
+
+.container{
+    width: 100vw;
+    height: 100vh;
+    background-color: rgb(145,205,50);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   text-align: center;
+}
+
+.button{
+    width: 15vw;
+    height: 5vh;
+    margin-bottom: 30px;
+    border-radius: 5px;
+    background-color: cornflowerblue;
+    transition: 1s;
+}
